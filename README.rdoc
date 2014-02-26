@@ -1,7 +1,7 @@
 = Photo Renamer
 
 Renames photos to have the same naming convention as dropbox
-`YYYY-MM-DD HH.MM.SS.jpg` format
+<tt>YYYY-MM-DD HH.MM.SS.jpg</tt> format
 
 === To run:
     ruby FOLDERNAME
